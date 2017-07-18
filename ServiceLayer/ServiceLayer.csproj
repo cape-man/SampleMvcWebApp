@@ -85,7 +85,10 @@
       <HintPath>..\packages\GenericLibsBase.1.0.1\lib\GenericLibsBase.dll</HintPath>
       <Private>True</Private>
     </Reference>
-   
+     <Reference Include="GenericServices, Version=1.0.10, Culture=neutral, processorArchitecture=MSIL">
+ -      <HintPath>..\packages\GenericServices.1.0.9\lib\GenericServices.dll</HintPath>
+ -      <Private>True</Private>
+ -    </Reference>
     <Reference Include="Mono.Reflection">
       <HintPath>..\packages\Mono.Reflection.1.0.0.0\lib\Mono.Reflection.dll</HintPath>
     </Reference>
