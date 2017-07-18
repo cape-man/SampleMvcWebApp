@@ -86,7 +86,7 @@
       <Private>True</Private>
     </Reference>
      <Reference Include="GenericServices, Version=1.0.10.0, Culture=neutral, processorArchitecture=MSIL">
- <HintPath>..\packages\GenericServices.1.0.9\lib\GenericServices.dll</HintPath>
+ <HintPath>..\packages\GenericServices.1.0.10\lib\GenericServices.dll</HintPath>
  <Private>True</Private>
  </Reference>
     <Reference Include="Mono.Reflection">
